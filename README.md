@@ -1,11 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Zfr.v2%20&fontSize=70&animation=fadeIn&fontAlignY=35&desc=AI%20Software%20Engineer%20%7C%20Football%20Data%20Visualization%20Specialist%20%7C%20Creative%20Technologist&descAlignY=55&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Zfr.v2%20&fontSize=70&animation=fadeIn&fontAlignY=35&desc=AI%20Software%20Engineer%20%7C%20Creative%20Technologist%20%7C%20Technical%20Director&descAlignY=55&descAlign=50" />
 
-### *Bridging the gap between Advanced Artificial Intelligence, Spatial Football Analytics and World-Class Creative Design.*
+### *Bridging the gap between Advanced Artificial Intelligence and World-Class Creative Design.*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-portfolio.zfryrgnci.workers.dev-00C7B7?style=for-the-badge&logo=netlify)](https://portfolio.zfryrgnci.workers.dev/)
-[![Football Analytics](https://img.shields.io/badge/Football%20Analytics-Górnik%20Zabrze-0284c7?style=for-the-badge&logo=soccer)](https://github.com/zfryrgnci/football-data-visualization-specialist)
 
 </div>
 
@@ -13,56 +12,26 @@
 
 ## 🚀 About Me
 
-I am an **AI Engineer & Football Data Visualization Specialist** and Creative Technologist specializing in **Computer Vision Optical Tracking**, **Spatial Pitch Control Analytics**, **Generative AI**, and **Enterprise Automation**.
+I am a Creative Technologist specializing in **Generative AI**, **WebGL/3D Graphics**, and **Enterprise/Designer Workflow Automation**. With a unique background spanning 3ds Max procedural rendering to FastAPI/React architectures, I build high-performance systems that don't just compute data—they deliver breathtaking user experiences. I created 1250+ scripts for 3ds Max, Adobe Photoshop, Illustrator, After Effects and Premiere's work flows.
 
-- ⚽ **Football Club Experience:** Remote Performance & Data Visualization Specialist for **Górnik Zabrze** (Polish Ekstraklasa 2025–2026 Season), delivering pre-match tactical dossiers, post-match spatial deconstructions, and cross-league recruitment models for **Turkish Süper Lig** applications.
-- 🤖 **AI & Vision:** Optical player tracking with fine-tuned YOLOv11x + ByteTrack, camera calibration homography matrices, Voronoi space dominance, and Karun Singh Markov Expected Threat (xT) models.
-- 🌌 **Creative Output:** Explore my full digital portfolio at **[portfolio.zfryrgnci.workers.dev](https://portfolio.zfryrgnci.workers.dev/)**.
-- 💬 **Ask me about:** Football tracking pipelines, Planar Homography, Voronoi pitch control, Generative AI engines, PWA architectures, and High-performance graphics.
+- 🤖 **Current Focus:** Training and deploying generative AI engines.
+- 🌌 **Creative Output:** Explore my full portfolio at **[portfolio.zfryrgnci.workers.dev](https://portfolio.zfryrgnci.workers.dev/)**.
+- 💬 **Ask me about:** PWA architectures, Procedural 3D Generation, AI Prompt Engineering, and Serverless Deployment.
 
 ---
 
 ## 💻 Tech Stack & Expertise
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,opencv,ts,js,react,vite,html,css,tailwind,nodejs,fastapi" />
+<img src="https://skillicons.dev/icons?i=python,ts,js,react,vite,html,css,tailwind,nodejs,fastapi" />
 <br/>
 <img src="https://skillicons.dev/icons?i=threejs,docker,vercel,gcp,git,github,vscode,linux,ps,ai,pr,ae" />
 </div>
 
 <br/>
 
-**Sports Analytics & CV:** YOLOv11x, ByteTrack, Direct Linear Transform (DLT) Homography, `mplsoccer`, SciPy (Voronoi/ConvexHull), StatsBomb, Opta, Wyscout, `worldfootballR`.<br/>
-**AI & Automation:** PyTorch, OpenCV, Gemini API, OpenAI API, Codex, Google Antigravity.<br/>
+**AI & Automation:** Gemini API, OpenAI API, Codex, Google Antigravity, Advanced Prompt Engineering.<br/>
 **Graphics & Scripting:** WebGL, React Three Fiber, ExtendScript (Adobe), MAXScript (3ds Max), V-Ray, Corona.
-
----
-
-## ⚽ Featured Showcase: Football Data Visualization Specialist & AI Engineer
-### 🏟️ Górnik Zabrze (Ekstraklasa 2025–2026) & Turkish Süper Lig Club Dossiers
-
-<div align="center">
-
-[![Repository](https://img.shields.io/badge/GitHub%20Repository-football--data--visualization--specialist-0284c7?style=for-the-badge&logo=github)](https://github.com/zfryrgnci/football-data-visualization-specialist)
-[![Roboflow Sports](https://img.shields.io/badge/Benchmark-Roboflow%20Sports%20CV-00F5D4?style=for-the-badge)](https://github.com/roboflow/sports)
-[![Edd Webster](https://img.shields.io/badge/Benchmark-Edd%20Webster%20Analytics-FFD166?style=for-the-badge)](https://github.com/eddwebster/football_analytics)
-[![Golazo](https://img.shields.io/badge/Benchmark-0xjuanma%20Golazo-F72585?style=for-the-badge)](https://github.com/0xjuanma/golazo)
-[![worldfootballR](https://img.shields.io/badge/Benchmark-worldfootballR%20Pipelines-10B981?style=for-the-badge)](https://github.com/JaseZiv/worldfootballR)
-
-</div>
-
-I have architected an elite football intelligence suite designed directly for Head Coaches, Sporting Directors, and Recruitment Analysts in the **Turkish Süper Lig** (Galatasaray, Fenerbahçe, Beşiktaş, Trabzonspor) and top European leagues:
-
-| Tactical Analytics Pillar | Benchmark Pedigree | Technical Implementation | Direct Visual Link |
-| :--- | :--- | :--- | :--- |
-| **🎥 Broadcast CV & 2D Tactical Radar** | [roboflow/sports](https://github.com/roboflow/sports) | YOLOv11x + ByteTrack detection mapped via Direct Linear Transform (DLT) Homography $H \in \mathbb{R}^{3 \times 3}$ to a 105x68m metric pitch radar with instantaneous velocity vectors ($\vec{v}$) and pressing distances. | [View CV Radar](https://raw.githubusercontent.com/zfryrgnci/football-data-visualization-specialist/main/visuals/17_roboflow_cv_broadcast_homography_radar.png) |
-| **📐 Voronoi Pitch Control & Convex Hulls** | [eddwebster](https://github.com/eddwebster/football_analytics) | Full-pitch Voronoi space dominance tessellation (Górnik 58.4% control) paired with outfield team convex hulls calculating compactness area ($m^2$), effective width ($m$), and defensive line depth ($m$). | [View Pitch Control](https://raw.githubusercontent.com/zfryrgnci/football-data-visualization-specialist/main/visuals/18_eddwebster_voronoi_pitch_control_convex_hulls.png) |
-| **🧭 360° Polar Pass Sonar Engines** | [eddwebster](https://github.com/eddwebster/football_analytics) & [golazo](https://github.com/0xjuanma/golazo) | 12-sector angular passing directionality charts encoding pass frequency and average distance (m) for Górnik Zabrze's midfield engine (Damian Rasak, Patrik Hellebrand, Erik Janża, Taofeek Ismaheel). | [View Pass Sonars](https://raw.githubusercontent.com/zfryrgnci/football-data-visualization-specialist/main/visuals/19_pass_sonar_midfield_engine.png) |
-| **⚡ Markov Chain Expected Threat (xT)** | [0xjuanma/golazo](https://github.com/0xjuanma/golazo) | Karun Singh 16x12 pitch transition matrix quantifying threat surfaces, Zone 14 entries, and high-threat line-breaking progression corridors. | [View xT Matrix](https://raw.githubusercontent.com/zfryrgnci/football-data-visualization-specialist/main/visuals/20_markov_xt_progression_channels.png) |
-| **🎯 Bivariate Shot Map & Pressure Index** | [0xjuanma/golazo](https://github.com/0xjuanma/golazo) | Attacking half-pitch bivariate shot map where bubble size denotes Expected Goals ($xG$) and color reflects defender pressure density index ($0.0 - 1.0$) at shot release. | [View Bivariate Shots](https://raw.githubusercontent.com/zfryrgnci/football-data-visualization-specialist/main/visuals/21_bivariate_shot_quality_pressure.png) |
-| **💰 Cross-League Recruitment Frontier** | [worldfootballR](https://github.com/JaseZiv/worldfootballR) | Multi-league transfer arbitrage model analyzing Transfermarkt market valuations (€M) vs composite tactical action value-added per 90 across Ekstraklasa & Süper Lig targets. | [View Recruitment Matrix](https://raw.githubusercontent.com/zfryrgnci/football-data-visualization-specialist/main/visuals/22_worldfootballr_recruitment_frontier.png) |
-
-👉 **Visit the Complete Repository:** [github.com/zfryrgnci/football-data-visualization-specialist](https://github.com/zfryrgnci/football-data-visualization-specialist)
 
 ---
 
@@ -111,6 +80,8 @@ I have architected an elite football intelligence suite designed directly for He
 
 ## 🏆 Apps and other Projects
 
+Here are the open-source engines and applications I have engineered:
+
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | 🎵 **[MusicMaker AI](https://github.com/zfryrgnci/music-maker)** | Auto-regressive AI audio generator capable of creating 60-minute Long Mixes via perfect mathematical crossfading. | `Python` `FastAPI` `React` `MusicGen` |
@@ -136,5 +107,5 @@ I have architected an elite football intelligence suite designed directly for He
 
 ---
 <div align="center">
-<i>"Engineering logic to breathe life into football tactics and digital art."</i>
+<i>"Engineering logic to breathe life into art."</i>
 </div>
