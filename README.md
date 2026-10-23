@@ -4,7 +4,7 @@
 
 ### *Bridging the gap between Advanced Artificial Intelligence and World-Class Creative Design.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio.zfryrgnci.workers.dev-00C7B7?style=for-the-badge&logo=netlify)](https://portfolio.zfryrgnci.workers.dev/)
+
 
 </div>
 
